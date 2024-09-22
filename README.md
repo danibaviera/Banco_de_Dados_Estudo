@@ -1,2 +1,2 @@
 # BancodeDados_Estudo
-Estudando Banco de dados relacional e não relacional 
+Estudando Banco de dados relacional. 
